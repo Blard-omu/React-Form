@@ -26,6 +26,11 @@ const Navbar = () => {
                        Services
                    </Link>
                 </li>
+                <li>
+                   <Link className='nav-link' to='/Instant'>
+                       Buy/Sell
+                   </Link>
+                </li>
                 
                 
                 

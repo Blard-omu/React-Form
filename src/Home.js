@@ -1,6 +1,5 @@
 import React from 'react'
 import Form from './Form'
-// import vid from './Atoms - 13232.mp4'
 import vid1 from './Globe - 6269.mp4'
 
 
